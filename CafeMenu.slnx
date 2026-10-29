@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CafeMenu/CafeMenu.csproj" />
+  <Project Path="CafeMenu.Tests/CafeMenu.Tests.csproj" />
+</Solution>

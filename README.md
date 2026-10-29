@@ -28,3 +28,7 @@ Run the program with **Ctrl+F5** to see a receipt, and the tests with **Test > R
 - Counting drinks is the one place you need to know the kind: `if (item is Drink)`.
 - One test adds a kind of item `Order` has never heard of, a `Soup`. If your `Total` uses `Price`, it passes without a change.
 - `FormatMoney` is ready at the bottom of `Order`, for the receipt lines.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.

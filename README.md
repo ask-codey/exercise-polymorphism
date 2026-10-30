@@ -1,8 +1,8 @@
-# Practice: Polymorphism
+# Exercise: Polymorphism
 
-Practice code for the lesson **Practice: Polymorphism** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Polymorphism** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-The café's menu is finished: `MenuItem`, `Drink` and `Pastry`, from *Practice: Inheritance*. Now customers need to order. You'll write the `Order` class, which holds any mix of items in one `List<MenuItem>` and works out the total, a meal-deal discount and the receipt.
+The café's menu is finished: `MenuItem`, `Drink` and `Pastry`, from *Exercise: Inheritance*. Now customers need to order. You'll write the `Order` class, which holds any mix of items in one `List<MenuItem>` and works out the total, a meal-deal discount and the receipt.
 
 ## What's here
 
